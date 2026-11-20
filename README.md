@@ -22,7 +22,11 @@ A Flutter app that fetches posts from an API, caches them with Hive for offline 
 
 ### Favorites screen
 
-![Favorites screen](Screenshots/Pasted%20image%20(3).png)
+![Favorites screen (used)](Screenshots/Pasted%20image%20(3).png)
+![Favorites screen(unused)](Screenshots/favorites.png)
+
+### Offline
+![off](Screenshots/offline.png)
 
 ## Running
 
